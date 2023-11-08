@@ -1,0 +1,28 @@
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\Livraria PJ\bin\Debug\net7.0\Livraria PJ.exe
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\Livraria PJ\bin\Debug\net7.0\Livraria PJ.deps.json
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\Livraria PJ\bin\Debug\net7.0\Livraria PJ.runtimeconfig.json
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\Livraria PJ\bin\Debug\net7.0\Livraria PJ.dll
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\Livraria PJ\bin\Debug\net7.0\Livraria PJ.pdb
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\Livraria PJ\obj\Debug\net7.0\Livraria PJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\Livraria PJ\obj\Debug\net7.0\Livraria PJ.AssemblyInfoInputs.cache
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\Livraria PJ\obj\Debug\net7.0\Livraria PJ.AssemblyInfo.cs
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\Livraria PJ\obj\Debug\net7.0\Livraria PJ.csproj.CoreCompileInputs.cache
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\Livraria PJ\obj\Debug\net7.0\Livraria PJ.dll
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\Livraria PJ\obj\Debug\net7.0\refint\Livraria PJ.dll
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\Livraria PJ\obj\Debug\net7.0\Livraria PJ.pdb
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\Livraria PJ\obj\Debug\net7.0\Livraria PJ.genruntimeconfig.cache
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\Livraria PJ\obj\Debug\net7.0\ref\Livraria PJ.dll
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\SistemaLivros\bin\Debug\net7.0\Livraria PJ.exe
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\SistemaLivros\bin\Debug\net7.0\Livraria PJ.deps.json
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\SistemaLivros\bin\Debug\net7.0\Livraria PJ.runtimeconfig.json
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\SistemaLivros\bin\Debug\net7.0\Livraria PJ.dll
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\SistemaLivros\bin\Debug\net7.0\Livraria PJ.pdb
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\SistemaLivros\obj\Debug\net7.0\Livraria PJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\SistemaLivros\obj\Debug\net7.0\Livraria PJ.AssemblyInfoInputs.cache
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\SistemaLivros\obj\Debug\net7.0\Livraria PJ.AssemblyInfo.cs
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\SistemaLivros\obj\Debug\net7.0\Livraria PJ.csproj.CoreCompileInputs.cache
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\SistemaLivros\obj\Debug\net7.0\Livraria PJ.dll
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\SistemaLivros\obj\Debug\net7.0\refint\Livraria PJ.dll
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\SistemaLivros\obj\Debug\net7.0\Livraria PJ.pdb
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\SistemaLivros\obj\Debug\net7.0\Livraria PJ.genruntimeconfig.cache
+C:\Users\Artur Fiorentino\OneDrive\Área de Trabalho\Livraria-PJ\SistemaLivros\obj\Debug\net7.0\ref\Livraria PJ.dll
